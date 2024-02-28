@@ -9,16 +9,14 @@ Bu programı çalıştırmak için Java Development Kit (JDK) yüklü bir sistem
 
 Programın Çalıştırılması
 Programı çalıştırmak için aşağıdaki adımları takip edin:
+1-  Bir metin editörü kullanarak StringToLongConversion.java adında bir dosya oluşturun.
+2-  Yukarıda verilen Java kodunu bu dosyaya yapıştırın.
+3-  Komut satırı veya terminali açın ve Java dosyasının bulunduğu dizine gidin.
+4-  Aşağıdaki komutu kullanarak programı derleyin:
+    `javac StringToLongConversion.java`
+5-  Programı çalıştırmak için aşağıdaki komutu kullanın:
+   `java StringToLongConversion`
 
-Bir metin editörü kullanarak StringToLongConversion.java adında bir dosya oluşturun.
-Yukarıda verilen Java kodunu bu dosyaya yapıştırın.
-Komut satırı veya terminali açın ve Java dosyasının bulunduğu dizine gidin.
-Aşağıdaki komutu kullanarak programı derleyin:
-Copy code
-javac StringToLongConversion.java
-Programı çalıştırmak için aşağıdaki komutu kullanın:
-Copy code
-java StringToLongConversion
 Program çalıştırıldığında, örnek bir string değeri long tipine dönüştürülür ve sonuç ekrana yazdırılır. Eğer dönüştürülmek istenen string sayısal bir değer içermiyorsa, program bir hata mesajı gösterir.
 
 Hata Yönetimi
